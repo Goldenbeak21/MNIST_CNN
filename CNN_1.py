@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 13 09:19:23 2019
 
-@author: Saiprasad
-"""
 #importing all the required libraries used for building the model
 import pandas as pd
 import numpy as np
